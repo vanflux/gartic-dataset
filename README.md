@@ -8,6 +8,8 @@ O dataset contém 5366 partidas do gartic.io em português na categoria de alime
 
 A lista de partidas é armazenada em um JSON.
 
+[Releases/Downloads](https://github.com/vanflux/gartic-dataset/releases)
+
 Estrutura do JSON:
 ```ts
 [
